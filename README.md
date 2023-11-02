@@ -1,0 +1,2 @@
+# gimadso
+primer repositorio
